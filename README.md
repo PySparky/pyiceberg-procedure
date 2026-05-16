@@ -7,6 +7,7 @@ from plain Python data structures — no string templating required.
 
 ```bash
 pip install pyiceberg-maintenance
+pip install git+https://github.com/PySparky/pyiceberg-procedure.git
 ```
 
 ## Quick start
